@@ -13,3 +13,8 @@ Meu nome é André, estou em busca da minha primeira experiência profissional n
 - 🛠Formado em Automação Industrial - IFSP Campus Salto.
 
 - 👤Gosto de videogames, séries e tecnologia!
+
+<p align="center">
+<br>
+<a href="https://github.com/andre-alck?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+</p>
