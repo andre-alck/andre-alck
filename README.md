@@ -16,5 +16,8 @@ Meu nome é André, estou em busca da minha primeira experiência profissional n
 
 <p align="center">
 <br>
+<a href="https://github.com/andre-alck?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
 <a href="https://github.com/andre-alck?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=shell" target="_blank"><img alt="Shell" src="https://img.shields.io/badge/-shell-f1e05a?style=flat-square&logo=shell&logoColor=white"></a>
+
 </p>
