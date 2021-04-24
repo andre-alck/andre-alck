@@ -6,7 +6,7 @@
 
 ## Olá!
 
-Meu nome é André, sou interessado em tecnologia e busco oportunidades para aplicar meu conhecimento!
+Meu nome é André e busco uma oportunidade de exercer meus conhecimentos na área de tecnologia e programação para aplicar o que aprendi durante os cursos concluídos neste ano!
 
 - ⌨ Cursando Análise e Desenvolvimento de Sistemas - Fatec Itu.
 
