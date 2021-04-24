@@ -6,10 +6,10 @@
 
 ## Olá!
 
-Meu nome é André e busco uma oportunidade de exercer meus conhecimentos na área de tecnologia e programação para aplicar o que aprendi durante os cursos concluídos neste ano!
+Meu nome é André, estou em busca da minha primeira experiência profissional na área de tecnologia. Tenho como o objetivo colocar em prática os conhecimentos que adquiri durante os cursos que concluí!
 
 - ⌨ Cursando Análise e Desenvolvimento de Sistemas - Fatec Itu.
 
-- 🛠 Formado em Automação Industrial - IFSP Campus Salto.
+- 🛠Formado em Automação Industrial - IFSP Campus Salto.
 
-- 👤 Gosto de videogames, séries e tecnologia!
+- 👤Gosto de videogames, séries e tecnologia!
