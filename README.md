@@ -8,7 +8,7 @@
 
 Meu nome é André, sou interessado em tecnologia e busco oportunidades para aplicar meu conhecimento!
 
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas - Fatec Itu.
+- ⌨ Cursando Análise e Desenvolvimento de Sistemas - Fatec Itu.
 
 - 🛠 Formado em Automação Industrial - IFSP Campus Salto.
 
