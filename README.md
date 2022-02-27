@@ -7,8 +7,6 @@ Estou em busca da minha primeira experiência profissional na área de tecnologi
 ⌨ Cursando Análise e Desenvolvimento de Sistemas @ <strong><a href="https://fatecitu.edu.br/portal/" target="_blank"> Fatec Itu</a></strong>
 <br>
 
-💻 Cursando Técnico em Informática @ <strong><a href="https://slt.ifsp.edu.br/" target="_blank"> IFSP Campus Salto</a></strong>
-
 🛠 Formação Técnica em Automação Industrial @ <strong><a href="https://slt.ifsp.edu.br/" target="_blank"> IFSP Campus Salto</a></strong>
 
 <br>
