@@ -1,6 +1,6 @@
 # Olá! Meu nome é André Carvalho
 
-Estou em busca da minha primeira experiência profissional na área de tecnologia. Tenho como o objetivo colocar em prática os conhecimentos que adquiri durante os cursos que concluí!
+Estou em busca da minha primeira experiência profissional na área de tecnologia. Tenho como objetivo colocar em prática os conhecimentos que adquiri durante os cursos que concluí.
 
 <br>
 
