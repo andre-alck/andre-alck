@@ -22,14 +22,15 @@ Estou em busca da minha primeira experiência profissional na área de tecnologi
    <summary> &#9776; Saiba mais!</summary>
 <br>
 
-<a href="https://github.com/andre-alck/ic-dataset/search?l=jupyter-notebook" target="_blank" rel="noopener noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-blue"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=HTML" target="_blank" rel="noopener noreferrer"><img alt="HTML" src="https://img.shields.io/badge/HTML-orange"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=css" target="_blank" rel="noopener noreferrer"><img alt="CSS" src="https://img.shields.io/badge/CSS-purple"></a> 
-<a href="https://github.com/andre-alck?tab=repositories&language=JavaScript" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=TypeScript" target="_blank" rel="noopener noreferrer"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=Game Maker Language" target="_blank" rel="noopener noreferrer"><img alt="Game Maker Language" src="https://img.shields.io/badge/Game Maker Language-green"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=C" target="_blank" rel="noopener noreferrer"><img alt="C" src="https://img.shields.io/badge/C-gray"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=c%2B%2B" target="_blank" rel="noopener noreferrer"><img alt="C++" src="https://img.shields.io/badge/C++-ff69b4"></a>
+<a href="https://github.com/andre-alck/ic-dataset/search?l=jupyter-notebook" target="_blank" rel="noopener noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-d9ed92"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=JAVA" target="_blank" rel="noopener noreferrer"><img alt="Java" src="https://img.shields.io/badge/Java-b5e48c"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=HTML" target="_blank" rel="noopener noreferrer"><img alt="HTML" src="https://img.shields.io/badge/HTML-99d98c"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=css" target="_blank" rel="noopener noreferrer"><img alt="CSS" src="https://img.shields.io/badge/CSS-76c893"></a> 
+<a href="https://github.com/andre-alck?tab=repositories&language=JavaScript" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-52b69a"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=TypeScript" target="_blank" rel="noopener noreferrer"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-34a0a4"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=Game Maker Language" target="_blank" rel="noopener noreferrer"><img alt="Game Maker Language" src="https://img.shields.io/badge/Game Maker Language-168aad"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=C" target="_blank" rel="noopener noreferrer"><img alt="C" src="https://img.shields.io/badge/C-1a759f"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=c%2B%2B" target="_blank" rel="noopener noreferrer"><img alt="C++" src="https://img.shields.io/badge/C++-1e6091"></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=andre-alck&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555   "></img>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-alck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
