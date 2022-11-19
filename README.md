@@ -2,7 +2,7 @@
 
 💻 Estagiário de TI @ <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank"> Auto Geral Autopeças LTDA</a></strong>
 
-📒 Graduando em Análise e Desenvolvimento de Sistemas @ <strong><a href="https://fatecitu.edu.br/portal/" target="_blank"> Fatec Itu</a></strong>
+📒 Graduando em Análise e Desenvolvimento de Sistemas @ <strong><a href="https://descomplica.com.br/faculdade/" target="_blank"> Descomplica Faculdade Digital</a></strong>
 
 <br>
 
