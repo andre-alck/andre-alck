@@ -1,6 +1,6 @@
 # Olá, meu nome é André Carvalho
 
-💻 Desenvolvedor de Software | Analista de Desenvolvimento de Sistemas @ <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank"> Auto Geral Autopeças LTDA</a></strong>
+💻 Desenvolvedor | Analista de Desenvolvimento de Sistemas @ <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank"> Auto Geral Autopeças LTDA</a></strong>
 
 📒 Graduando em Análise e Desenvolvimento de Sistemas @ <strong><a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Cruzeiro do Sul Virtual</a></strong>
 
