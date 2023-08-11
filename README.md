@@ -11,12 +11,11 @@
 
 <br>
 
-<a href="https://github.com/andre-alck?tab=repositories&language=dart" target="_blank" rel="noopener noreferrer"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-068d9d"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=dart" target="_blank" rel="noopener noreferrer"><img alt="Dart" src="https://img.shields.io/badge/Dart-75E6DA"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=Java" target="_blank" rel="noopener noreferrer"><img alt="Java" src="https://img.shields.io/badge/Java-068d9d"></a>
+<a href="https://github.com/andre-alck?tab=repositories&language=Java" target="_blank" rel="noopener noreferrer"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-75E6DA"></a>
 <a href="https://github.com/andre-alck/mysql-comece-com-o-principal-banco-de-dados-open-source-do-mercado" target="_blank" rel="noopener noreferrer"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-53599A"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=Java" target="_blank" rel="noopener noreferrer"><img alt="Java" src="https://img.shields.io/badge/Java-6D9DC5"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=Java" target="_blank" rel="noopener noreferrer"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-189AB4"></a>
-<a href="https://github.com/andre-alck?tab=repositories" target="_blank" rel="noopener noreferrer"><img alt="Git" src="https://img.shields.io/badge/Git-D4F1F4"></a>
+<a href="https://github.com/andre-alck?tab=repositories" target="_blank" rel="noopener noreferrer"><img alt="Git" src="https://img.shields.io/badge/Git-6D9DC5"></a>
+<a href="https://github.com/andre-alck?tab=repositories" target="_blank" rel="noopener noreferrer"><img alt="GCP" src="https://img.shields.io/badge/GCP-189AB4"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=andre-alck&count_private=true&show_icons=true)
 
