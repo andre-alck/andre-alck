@@ -13,11 +13,11 @@
 
 <br>
 
-<a href="https://github.com/andre-alck?tab=repositories&language=Java" target="_blank" rel="noopener noreferrer"><img alt="Java" src="https://img.shields.io/badge/Java-068d9d"></a>
-<a href="https://github.com/andre-alck?tab=repositories&language=Java" target="_blank" rel="noopener noreferrer"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-75E6DA"></a>
-<a href="https://github.com/andre-alck/mysql-comece-com-o-principal-banco-de-dados-open-source-do-mercado" target="_blank" rel="noopener noreferrer"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-53599A"></a>
-<a href="https://github.com/andre-alck?tab=repositories" target="_blank" rel="noopener noreferrer"><img alt="Git" src="https://img.shields.io/badge/Git-6D9DC5"></a>
-<a href="https://github.com/andre-alck?tab=repositories" target="_blank" rel="noopener noreferrer"><img alt="GCP" src="https://img.shields.io/badge/GCP-189AB4"></a>
+<img alt="Java" src="https://img.shields.io/badge/Java-068d9d">
+<img alt="Git" src="https://img.shields.io/badge/Git-75E6DA">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-53599A">
+<img alt="API REST" src="https://img.shields.io/badge/API REST-6D9DC5">
+<img alt="Testes automatizados" src="https://img.shields.io/badge/Testes automatizados-189AB4">
 
 ![](https://github-readme-stats.vercel.app/api?username=andre-alck&count_private=true&show_icons=true)
 
