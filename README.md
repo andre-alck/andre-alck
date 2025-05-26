@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor de Software | Programador de Sistemas de Informação @ <strong><a href="https://www.linkedin.com/company/linked-rh/mycompany/" target="_blank">LinkedRH</a></strong>
 
-🎲 Pós-graduando em Análise de Dados @ <strong><a href="https://www.datascienceacademy.com.br/bundle/pos-graduacao-em-analise-de-dados" target="_blank">Data Science Academy</a></strong>
+🎲 Pós-graduado em Análise de Dados @ <strong><a href="https://www.datascienceacademy.com.br/bundle/pos-graduacao-em-analise-de-dados" target="_blank">Data Science Academy</a></strong>
 
 📒 Graduado em Análise e Desenvolvimento de Sistemas @ <strong><a href="https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Cruzeiro do Sul Virtual</a></strong>
 
